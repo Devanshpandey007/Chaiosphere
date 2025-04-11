@@ -3,4 +3,5 @@
 *.pyo
 *.pyd
 .env
+venv/
 db.sqlite3
