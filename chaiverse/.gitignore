@@ -1,40 +1,7 @@
-# Python
+=__pycache__/
 *.pyc
 *.pyo
 *.pyd
-__pycache__/
-*.env
-*.venv
-
-env/
-ENV/
-
-# VS Code and PyCharm
-.vscode/
-.idea/
-
-# Django specific
-db.sqlite3
-*.log
-*.pot
-*.py[cod]
-*.sqlite3
-media/
-staticfiles/
-local_settings.py
-settings_local.py
-
-# Migrations - if you want to avoid initial migration files (optional)
-# */migrations/*.py
-# !*/migrations/__init__.py
-
-# OS-specific
-.DS_Store
-Thumbs.db
-
-# Secret files
+venv/
 .env
-.env.*
-
-# Node (if you use npm for static stuff)
-node_modules/
+db.sqlite3
